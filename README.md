@@ -27,6 +27,8 @@ This project inspects stock price time-series forecasting with Long Short-Term M
 
 ## Project Structure
 
+## Project Structure
+
 ```text
 pytorch-stock-prediction/
 ├── data/
@@ -36,8 +38,8 @@ pytorch-stock-prediction/
 ├── src/
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Disclaimer
-#This project is developed for educational purposes only. It does not constitut financial or investment advice.
 
+> This project is developed for educational purposes only. It does not constitute financial or investment advice.
