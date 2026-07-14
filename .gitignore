@@ -1,0 +1,28 @@
+#py venv
+.venv/
+
+#py cache
+__pycache__/
+*.py[cod]
+
+#jupyter
+.ipynb_checkpoints/
+
+#macos
+.DS_Store
+
+#vscode
+.vscode/
+
+#env
+.env
+
+#model files
+*.pth
+*.pt
+
+#datasets
+data/*.csv
+dara/*.zip
+
+*.log
