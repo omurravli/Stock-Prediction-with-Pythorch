@@ -16,7 +16,7 @@ This project inspects stock price time-series forecasting with Long Short-Term M
 - [x] Project environment created
 - [x] PyTorch installed
 - [x] Jupyter environment configured
-- [ ] Machine learning fundamentals
+- [x] Machine learning fundamentals
 - [ ] Pandas exercises
 - [ ] Regression mini-project
 - [ ] Stock dataset preparation
